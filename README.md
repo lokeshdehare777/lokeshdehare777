@@ -5,6 +5,7 @@ I enjoy the process of digging into data — cleaning it, exploring it, building
 I'm looking for opportunities to contribute to real data projects where I can keep sharpening these skills and grow as an analyst.
 
 🔹 Skills: Python | SQL | Power BI | Data Analysis | Data Visualisation
+
 🔹 Interests: Data Analytics, Business Intelligence,
 
 
