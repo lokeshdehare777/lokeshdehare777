@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a passionate and detail-orientated data analyst with hands-on experience turning messy datasets into insights that support real business decisions, using Python, SQL, and Power BI. 
-I enjoy the process of digging into data — cleaning it, exploring it, building models around it, and then presenting what I find in a way that's actually useful to someone making a decision. During my internship at AutoMechano Technologies, I worked on a supply chain analytics project end to end, from a large raw dataset to a predictive model and a Power BI dashboard. I also have some exposure to full-stack development, having built a house rental web app using Java, SQL, and Bootstrap.
+I enjoy the process of digging into data  cleaning it, exploring it, building models around it, and then presenting what I find in a way that's actually useful to someone making a decision. During my internship at AutoMechano Technologies, I worked on a supply chain analytics project end to end, from a large raw dataset to a predictive model and a Power BI dashboard. I also have some exposure to full-stack development, having built a house rental web app using Java, SQL, and Bootstrap.
  
 I'm looking for opportunities to contribute to real data projects where I can keep sharpening these skills and grow as an analyst.
 
