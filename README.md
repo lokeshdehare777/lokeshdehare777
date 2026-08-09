@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m a passionate and detail-oriented Front-End Web Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript.<br><br>I enjoy turning creative ideas into functional designs and continuously learning new technologies to improve my development skills. I’m looking for opportunities to contribute to exciting web projects where I can grow as a developer and help deliver great user experiences.<br><br>🔹 Skills: HTML5 | CSS3 | JavaScript (ES6)<br>🔹 Interests: Web Design, Front-End Development, UI/UX
+I'm a passionate and detail-orientated data analyst with hands-on experience turning messy datasets into insights that support real business decisions, using Python, SQL, and Power BI. 
+I enjoy the process of digging into data — cleaning it, exploring it, building models around it, and then presenting what I find in a way that's actually useful to someone making a decision. During my internship at AutoMechano Technologies, I worked on a supply chain analytics project end to end, from a large raw dataset to a predictive model and a Power BI dashboard. I also have some exposure to full-stack development, having built a house rental web app using Java, SQL, and Bootstrap.
+ 
+I'm looking for opportunities to contribute to real data projects where I can keep sharpening these skills and grow as an analyst.
+🔹 Skills: Python | SQL | Power BI | Data Analysis | Data Visualisation
+🔹 Interests: Data Analytics, Business Intelligence,
 
 
 ## 🌐 Socials:
